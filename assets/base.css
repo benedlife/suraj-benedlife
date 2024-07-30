@@ -2904,7 +2904,8 @@ details-disclosure > details {
 
 .gradient {
   background: rgb(var(--color-background));
-  background: var(--gradient-background);
+  /*background: var(--gradient-background);*/
+  background: gray;
   background-attachment: fixed;
 }
 
